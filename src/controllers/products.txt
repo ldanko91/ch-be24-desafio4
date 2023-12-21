@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "añadido1",
+    "description": "description1",
+    "price": 125,
+    "thumbnail": "foto2.jpg",
+    "code": "azz123",
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "title": "añadido2",
+    "description": "description2",
+    "price": 250,
+    "thumbnail": "foto332.jpg",
+    "code": "a5z123",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "title": "añadido3",
+    "description": "description3",
+    "price": 1225,
+    "thumbnail": "foto1222.jpg",
+    "code": "azz1423",
+    "stock": 22
+  },
+  {
+    "id": 4,
+    "title": "añadido5",
+    "description": "description4",
+    "price": 900,
+    "thumbnail": "foto21.jpg",
+    "code": "az63",
+    "stock": 12
+  },
+  {
+    "id": 5,
+    "title": "añadido6",
+    "description": "description5",
+    "price": 7900,
+    "thumbnail": "foto22.jpg",
+    "code": "az37",
+    "stock": 222
+  },
+  {
+    "id": 6,
+    "title": "añadido7",
+    "description": "description6",
+    "price": 4900,
+    "thumbnail": "foto23.jpg",
+    "code": "az38",
+    "stock": 24
+  },
+  {
+    "id": 7,
+    "title": "añadido8",
+    "description": "description7",
+    "price": 900900,
+    "thumbnail": "foto42.jpg",
+    "code": "az39",
+    "stock": 52
+  },
+  {
+    "id": 8,
+    "title": "añadido9",
+    "description": "description8",
+    "price": 45900,
+    "thumbnail": "foto212.jpg",
+    "code": "az103",
+    "stock": 62
+  },
+  {
+    "id": 9,
+    "title": "Producto actualizado",
+    "description": "Funcionamiento de update by code OK",
+    "price": 789789,
+    "thumbnail": [
+      "../public/img/750tcp.png"
+    ],
+    "stock": 41,
+    "status": true,
+    "category": "1"
+  }
+]
